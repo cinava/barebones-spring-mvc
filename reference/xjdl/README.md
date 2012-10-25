@@ -1,6 +1,6 @@
 # About
 
-XJDL is a lightweight, non-intrusive framework designed to integrate licensing into Java projects with minimum development effort.
+XJDL (an eXtensible Java Declarative Licensing framework) is a lightweight, non-intrusive framework designed to integrate licensing into Java projects with minimum development effort.
 
 # Declarative licensing
 
